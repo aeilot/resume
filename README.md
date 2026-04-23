@@ -1,6 +1,6 @@
 # Resume
 
-This is the LaTeX resume of Chenluo Deng. Last Update: 19 Feb 2026.
+This is the LaTeX resume of Chenluo Deng. Last Update: 23 Apr 2026.
 
 ## Credits
 
